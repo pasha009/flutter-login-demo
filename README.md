@@ -14,3 +14,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## ScreenShots
+
+### Landing Page
+
+![Landing Page](./screenshots/landingpage.jpeg)
+
+### Login Page
+
+![Login Page](./screenshots/login.jpeg)
+
+### Signup Page
+
+![Signup Page](./screenshots/signup.jpeg)
